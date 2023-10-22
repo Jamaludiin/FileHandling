@@ -1,0 +1,1 @@
+ List index: 0 List value: 1,  List index: 1 List value: 2,  List index: 2 List value: 3,  List index: 3 List value: 4,  List index: 4 List value: 5,  List index: 5 List value: 6,  List index: 6 List value: 7,  List index: 7 List value: 8,  List index: 8 List value: 9, 
